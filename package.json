@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-less": "^3.3.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "babel-core": "^6.24.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-stage-0": "^6.22.0"
+  },
+  "dependencies": {},
+  "name": "server",
+  "description": "a web serve by gulp",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "learn",
+    "serve"
+  ],
+  "author": "yun qian",
+  "license": "ISC"
+}
